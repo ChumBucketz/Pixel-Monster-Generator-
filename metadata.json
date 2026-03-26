@@ -1,0 +1,5 @@
+{
+  "name": "Pixel Monster Generator",
+  "description": "A tool to generate random 32x32 monochromatic pixel art monsters with symmetrical patterns.",
+  "requestFramePermissions": []
+}
